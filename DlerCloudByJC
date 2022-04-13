@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://gitee.com/finalpjc/Rules/raw/master/DlerCloudByJC interval=86400 strict=true
+#!MANAGED-CONFIG https://raw.githubusercontent.com/finalpjc/SurgeRules/main/DlerCloudByJC interval=86400 strict=true
 
 [General]
 loglevel = notify
@@ -155,9 +155,9 @@ IEPL = url-test, 🇭🇰 香港 IEPL [01], 🇭🇰 香港 IEPL [02], 🇭🇰 
 
 [Rule]
 # JC Rulesets
-RULE-SET,https://gitee.com/finalpjc/Rules/raw/master/JC-PROXY.list,Proxy
-RULE-SET,https://gitee.com/finalpjc/Rules/raw/master/JC-REJECT.list,REJECT
-RULE-SET,https://gitee.com/finalpjc/Rules/raw/master/JC-DIRECT.list,DIRECT
+RULE-SET,https://raw.githubusercontent.com/finalpjc/SurgeRules/main/JC-PROXY.list,Proxy
+RULE-SET,https://raw.githubusercontent.com/finalpjc/SurgeRules/main/JC-REJECT.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/finalpjc/SurgeRules/main/JC-DIRECT.list,DIRECT
 
 # Rulesets
 RULE-SET,https://cdn.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Special.list,DIRECT
