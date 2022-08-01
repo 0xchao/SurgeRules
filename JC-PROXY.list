@@ -1,4 +1,5 @@
 # > JC-PROXY
+PROCESS-NAME,zoom.us
 PROCESS-NAME,Music
 DOMAIN-SUFFIX,hoyolab.com
 DOMAIN-SUFFIX,crowdcube.com
