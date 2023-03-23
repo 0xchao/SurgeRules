@@ -42,93 +42,98 @@ keyword-filter-type = false
 Direct = direct
 Reject = reject
 
-🇷🇺 俄罗斯 Edge = trojan, 94.242.58.55, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇦 加拿大 Edge = trojan, 46.3.80.226, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇮🇳 印度 Edge = trojan, 216.185.57.229, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 CHT [01] = trojan, cht1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 CHT [02] = trojan, cht2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 CHT [03] = trojan, cht3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 Edge = trojan, 103.156.184.21, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 HINET [01] = trojan, hinet1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 HINET [02] = trojan, hinet2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 HINET [03] = trojan, hinet3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 HINET [04] = trojan, hinet4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 IEPL [01] [Lite] = trojan, 183.240.9.135, 258, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 IEPL [02] [Lite] = trojan, 183.240.9.136, 258, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇨🇳 台湾 Seed = trojan, seed1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇹🇷 土耳其 Edge = trojan, 194.87.188.86, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇧🇷 巴西 Edge = trojan, br1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇩🇪 德国 Edge = trojan, de1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇩🇪 德国 IEPL [01] [Lite] = trojan, 183.240.9.135, 758, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇩🇪 德国 IEPL [02] [Lite] = trojan, 183.240.9.136, 758, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Aliyun [01] = trojan, ali_sg1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Aliyun [02] = trojan, ali_sg2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Aliyun [03] = trojan, ali_sg3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Aliyun [04] = trojan, ali_sg4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Edge [01] = trojan, 103.178.54.26, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 Edge [02] = trojan, 103.178.54.27, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 IEPL [01] [Lite] = trojan, 183.240.9.135, 358, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 IEPL [02] [Lite] = trojan, 183.240.9.136, 358, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 IEPL [03] [Std] = ss, 183.240.9.137, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇸🇬 新加坡 IEPL [04] [Premium] = ss, 183.240.9.138, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇯🇵 日本 DMIT [03] = trojan, dmit_jp3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇯🇵 日本 DMIT [04] = trojan, dmit_jp4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇯🇵 日本 DMIT [05] = trojan, dmit_jp5.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇯🇵 日本 Edge = trojan, 157.254.193.16, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇯🇵 日本 IEPL [01] [Lite] = trojan, 183.240.9.135, 458, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇯🇵 日本 IEPL [02] [Lite] = trojan, 183.240.9.136, 458, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇹🇭 泰国 Edge = trojan, th1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇦🇺 澳大利亚 Edge = trojan, au1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 DMIT [01] = trojan, dmit_us1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 DMIT [02] = trojan, dmit_us2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 DMIT [03] = trojan, dmit_us3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 DMIT [04] = trojan, dmit_us4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 Edge [01] = trojan, 170.178.181.50, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 Edge [02] = trojan, 165.3.122.236, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 GIA [01] = trojan, gia_us1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 GIA [02] = trojan, gia_us2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 GIA [03] = trojan, gia_us3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 GIA [04] = trojan, gia_us4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 IEPL [01] [Lite] = trojan, 183.240.9.135, 658, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇺🇸 美国 IEPL [02] [Lite] = trojan, 183.240.9.136, 658, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇬🇧 英国 Edge = trojan, 185.237.99.105, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇬🇧 英国 IEPL [01] [Lite] = trojan, 183.240.9.135, 858, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇬🇧 英国 IEPL [02] [Lite] = trojan, 183.240.9.136, 858, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇵🇭 菲律宾 Edge = trojan, ph1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇰🇷 韩国 Edge [01] = trojan, kr1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇰🇷 韩国 Edge [02] = trojan, kr2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇰🇷 韩国 IEPL [01] [Lite] = trojan, 183.240.9.135, 558, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇰🇷 韩国 IEPL [02] [Lite] = trojan, 183.240.9.136, 558, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Aliyun [01] = trojan, ali_hk1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Aliyun [02] = trojan, ali_hk2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Aliyun [03] = trojan, ali_hk3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Aliyun [04] = trojan, ali_hk4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 DMIT [01] = trojan, dmit_hk1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 DMIT [02] = trojan, dmit_hk2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 DMIT [03] = trojan, dmit_hk3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 DMIT [04] = trojan, dmit_hk4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Edge [01] = trojan, 103.167.135.57, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Edge [02] = trojan, 103.167.135.58, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 Edge [03] = trojan, 103.167.135.59, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [01] = trojan, hkt1.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [02] = trojan, hkt2.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [03] = trojan, hkt3.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [04] = trojan, hkt4.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [05] = trojan, hkt5.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [06] = trojan, hkt6.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [07] = trojan, hkt7.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 HKT [08] = trojan, hkt8.qiangdong.xyz, 8443, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [01] [Lite] = trojan, 183.240.9.135, 158, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [02] [Lite] = trojan, 183.240.9.136, 158, password=98bf091540.wns.windows.com, udp-relay=true, skip-cert-verify=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [03] [Std] = ss, 183.240.9.130, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [04] [Std] = ss, 183.240.9.131, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [05] [Std] = ss, 183.240.9.132, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [06] [Std] = ss, 183.240.9.133, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [07] [Std] = ss, 183.240.9.134, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [08] [Premium] = ss, 183.240.9.139, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [09] [Premium] = ss, 183.240.9.140, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [10] [Premium] = ss, 183.240.9.141, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
-🇭🇰 香港 IEPL [11] [Premium] = ss, 183.240.9.142, 24962, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇷🇺 俄罗斯 Edge = ss, 94.242.58.55, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇦 加拿大 Edge = ss, 46.3.80.226, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇮🇳 印度 Edge = ss, 216.185.57.229, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 CHT [01] = ss, cht1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 CHT [02] = ss, cht2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 CHT [03] = ss, cht3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 Edge = ss, 103.156.184.21, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 HINET [01] = ss, hinet1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 HINET [02] = ss, hinet2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 HINET [03] = ss, hinet3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 HINET [04] = ss, hinet4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 IEPL [01] [Lite] = ss, 183.240.9.135, 252, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇨🇳 台湾 IEPL [02] [Lite] = ss, 183.240.9.136, 252, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇹🇷 土耳其 Edge = ss, 194.87.188.86, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇧🇷 巴西 Edge = ss, br1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇩🇪 德国 Edge = ss, de1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇩🇪 德国 IEPL [01] [Lite] = ss, 183.240.9.135, 752, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇩🇪 德国 IEPL [02] [Lite] = ss, 183.240.9.136, 752, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Aliyun [01] = ss, ali_sg1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Aliyun [02] = ss, ali_sg2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Aliyun [03] = ss, ali_sg3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Aliyun [04] = ss, ali_sg4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Edge [01] = ss, 103.178.54.26, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 Edge [02] = ss, 103.178.54.27, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 IEPL [01] [Lite] = ss, 183.240.9.135, 352, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 IEPL [02] [Lite] = ss, 183.240.9.136, 352, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇸🇬 新加坡 IEPL [03] [Std] = ss, 183.240.9.137, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇸🇬 新加坡 IEPL [04] [Premium] = ss, 183.240.9.138, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇯🇵 日本 BBTEC = ss, 37.128.247.201, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 DMIT [01] = ss, dmit_jp1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 DMIT [02] = ss, dmit_jp2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 DMIT [03] = ss, dmit_jp3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 DMIT [04] = ss, dmit_jp4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 DMIT [05] = ss, dmit_jp5.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 Edge = ss, 157.254.193.16, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 IEPL [01] [Lite] = ss, 183.240.9.135, 452, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇯🇵 日本 IEPL [02] [Lite] = ss, 183.240.9.136, 452, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇹🇭 泰国 Edge = ss, th1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇦🇺 澳大利亚 Edge = ss, au1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 DMIT [01] = ss, dmit_us1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 DMIT [02] = ss, dmit_us2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 DMIT [03] = ss, dmit_us3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 DMIT [04] = ss, dmit_us4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 Edge [01] = ss, 170.178.181.50, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 Edge [02] = ss, 165.3.122.236, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 GIA [01] = ss, gia_us1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 GIA [02] = ss, gia_us2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 GIA [03] = ss, gia_us3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 GIA [04] = ss, gia_us4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 IEPL [01] [Lite] = ss, 183.240.9.135, 652, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇺🇸 美国 IEPL [02] [Lite] = ss, 183.240.9.136, 652, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇬🇧 英国 Edge = ss, 185.237.99.105, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇬🇧 英国 IEPL [01] [Lite] = ss, 183.240.9.135, 852, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇬🇧 英国 IEPL [02] [Lite] = ss, 183.240.9.136, 852, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇵🇭 菲律宾 Edge = ss, ph1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇦🇷 阿根廷 Edge = ss, 190.103.176.51, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇰🇷 韩国 Edge [01] = ss, kr1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇰🇷 韩国 Edge [02] = ss, kr2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇰🇷 韩国 IEPL [01] [Lite] = ss, 183.240.9.135, 552, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇰🇷 韩国 IEPL [02] [Lite] = ss, 183.240.9.136, 552, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Aliyun [01] = ss, ali_hk1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Aliyun [02] = ss, ali_hk2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Aliyun [03] = ss, ali_hk3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Aliyun [04] = ss, ali_hk4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Aliyun [05] = ss, ali_hk5.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 DMIT [01] = ss, dmit_hk1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 DMIT [02] = ss, dmit_hk2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 DMIT [03] = ss, dmit_hk3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 DMIT [04] = ss, dmit_hk4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 DMIT [05] = ss, dmit_hk5.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Edge [01] = ss, 103.167.135.57, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Edge [02] = ss, 103.167.135.58, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 Edge [03] = ss, 103.167.135.59, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [01] = ss, hkt1.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [02] = ss, hkt2.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [03] = ss, hkt3.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [04] = ss, hkt4.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [05] = ss, hkt5.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [06] = ss, hkt6.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [07] = ss, hkt7.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 HKT [08] = ss, hkt8.qiangdong.xyz, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [01] [Lite] = ss, 183.240.9.135, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [02] [Lite] = ss, 183.240.9.136, 152, encrypt-method=aes-128-gcm, password=VXPipi29nxMO, obfs=tls, obfs-host=7963e91540.wns.windows.com, udp-relay=false, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [03] [Std] = ss, 183.240.9.130, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [04] [Std] = ss, 183.240.9.131, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [05] [Std] = ss, 183.240.9.132, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [06] [Std] = ss, 183.240.9.133, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [07] [Std] = ss, 183.240.9.134, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [08] [Premium] = ss, 183.240.9.139, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [09] [Premium] = ss, 183.240.9.140, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [10] [Premium] = ss, 183.240.9.141, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
+🇭🇰 香港 IEPL [11] [Premium] = ss, 183.240.9.142, 21770, encrypt-method=chacha20-ietf, password=7iKURC6m1zYa, udp-relay=true, no-error-alert=true, tfo=true
 
 [Proxy Group]
 Proxy = select, AUTO, GLOBAL, PRO, Direct, 🇷🇺 俄罗斯 Edge, 🇨🇦 加拿大 Edge, 🇮🇳 印度 Edge, 🇨🇳 台湾 CHT [01], 🇨🇳 台湾 CHT [02], 🇨🇳 台湾 CHT [03], 🇨🇳 台湾 Edge, 🇨🇳 台湾 HINET [01], 🇨🇳 台湾 HINET [02], 🇨🇳 台湾 HINET [03], 🇨🇳 台湾 HINET [04], 🇨🇳 台湾 IEPL [01] [Lite], 🇨🇳 台湾 IEPL [02] [Lite], 🇨🇳 台湾 Seed, 🇹🇷 土耳其 Edge, 🇧🇷 巴西 Edge, 🇩🇪 德国 Edge, 🇩🇪 德国 IEPL [01] [Lite], 🇩🇪 德国 IEPL [02] [Lite], 🇸🇬 新加坡 Aliyun [01], 🇸🇬 新加坡 Aliyun [02], 🇸🇬 新加坡 Aliyun [03], 🇸🇬 新加坡 Aliyun [04], 🇸🇬 新加坡 Edge [01], 🇸🇬 新加坡 Edge [02], 🇸🇬 新加坡 IEPL [01] [Lite], 🇸🇬 新加坡 IEPL [02] [Lite], 🇸🇬 新加坡 IEPL [03] [Std], 🇸🇬 新加坡 IEPL [04] [Premium], 🇯🇵 日本 DMIT [03], 🇯🇵 日本 DMIT [04], 🇯🇵 日本 DMIT [05], 🇯🇵 日本 Edge, 🇯🇵 日本 IEPL [01] [Lite], 🇯🇵 日本 IEPL [02] [Lite], 🇹🇭 泰国 Edge, 🇦🇺 澳大利亚 Edge, 🇺🇸 美国 DMIT [01], 🇺🇸 美国 DMIT [02], 🇺🇸 美国 DMIT [03], 🇺🇸 美国 DMIT [04], 🇺🇸 美国 Edge [01], 🇺🇸 美国 Edge [02], 🇺🇸 美国 GIA [01], 🇺🇸 美国 GIA [02], 🇺🇸 美国 GIA [03], 🇺🇸 美国 GIA [04], 🇺🇸 美国 IEPL [01] [Lite], 🇺🇸 美国 IEPL [02] [Lite], 🇬🇧 英国 Edge, 🇬🇧 英国 IEPL [01] [Lite], 🇬🇧 英国 IEPL [02] [Lite], 🇵🇭 菲律宾 Edge, 🇰🇷 韩国 Edge [01], 🇰🇷 韩国 Edge [02], 🇰🇷 韩国 IEPL [01] [Lite], 🇰🇷 韩国 IEPL [02] [Lite], 🇭🇰 香港 Aliyun [01], 🇭🇰 香港 Aliyun [02], 🇭🇰 香港 Aliyun [03], 🇭🇰 香港 Aliyun [04], 🇭🇰 香港 DMIT [01], 🇭🇰 香港 DMIT [02], 🇭🇰 香港 DMIT [03], 🇭🇰 香港 DMIT [04], 🇭🇰 香港 Edge [01], 🇭🇰 香港 Edge [02], 🇭🇰 香港 Edge [03], 🇭🇰 香港 HKT [01], 🇭🇰 香港 HKT [02], 🇭🇰 香港 HKT [03], 🇭🇰 香港 HKT [04], 🇭🇰 香港 HKT [05], 🇭🇰 香港 HKT [06], 🇭🇰 香港 HKT [07], 🇭🇰 香港 HKT [08], 🇭🇰 香港 IEPL [01] [Lite], 🇭🇰 香港 IEPL [02] [Lite], 🇭🇰 香港 IEPL [03] [Std], 🇭🇰 香港 IEPL [04] [Std], 🇭🇰 香港 IEPL [05] [Std], 🇭🇰 香港 IEPL [06] [Std], 🇭🇰 香港 IEPL [07] [Std], 🇭🇰 香港 IEPL [08] [Premium], 🇭🇰 香港 IEPL [09] [Premium], 🇭🇰 香港 IEPL [10] [Premium], 🇭🇰 香港 IEPL [11] [Premium]
